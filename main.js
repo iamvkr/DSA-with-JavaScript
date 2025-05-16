@@ -1,3 +1,3 @@
-import main from "./1.basics.js";
+import main from "./2.loops.js";
 
 main()
